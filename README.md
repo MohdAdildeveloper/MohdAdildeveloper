@@ -5,7 +5,8 @@
 [![Website Badge](https://img.shields.io/badge/Facebook-NohdAdil-yellow)](https://www.facebook.com/adil.khanrajput.359)
 )
 
-I'm Mohd Adil.I want to become a full stack web developer.
+I'm Mohd Adil. I want to become a full stack web developer. I have joined Eduraka's Full Stack Web Development Internship.
+
 
 ![Visitor Count](https://profile-counter.glitch.me/mohdadildeveloper/count.svg)
 
