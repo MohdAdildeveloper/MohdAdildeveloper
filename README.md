@@ -3,11 +3,9 @@
 <!--[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel) -->
 [![Linkedin Badge](https://img.shields.io/badge/-MohdAdil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohd-adil-b3a265151/)](https://www.linkedin.com/in/mohd-adil-b3a265151/)
 [![Website Badge](https://img.shields.io/badge/Facebook-NohdAdil-yellow)](https://www.facebook.com/adil.khanrajput.359)
+)
 
-I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python, Golang), design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,Cassandra,Mysql), CI/CD(Docker, Kubernetes) 
-
+I'm Mohd Adil.I want to become a full stack web developer.
 
 ![Visitor Count](https://profile-counter.glitch.me/mohdadildeveloper/count.svg)
 
