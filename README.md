@@ -2,7 +2,7 @@
 
 <!--[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel) -->
 [![Linkedin Badge](https://img.shields.io/badge/-MohdAdil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohd-adil-b3a265151/)](https://www.linkedin.com/in/mohd-adil-b3a265151/)
-<!--[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)-->
+[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/Facebook-NohdAdil-yellow)](https://www.facebook.com/adil.khanrajput.359)
 
 I'm
